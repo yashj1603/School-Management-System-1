@@ -1,0 +1,16 @@
+D:\emarketing\School Management System\bin\Debug\School Management System.exe.config
+D:\emarketing\School Management System\bin\Debug\School Management System.exe
+D:\emarketing\School Management System\bin\Debug\School Management System.pdb
+D:\emarketing\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+D:\emarketing\School Management System\obj\Debug\School_Management_System.Form1.resources
+D:\emarketing\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+D:\emarketing\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+D:\emarketing\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+D:\emarketing\School Management System\obj\Debug\School Management System.exe
+D:\emarketing\School Management System\obj\Debug\School Management System.pdb
+D:\emarketing\School Management System\obj\Debug\School_Management_System.Main.resources
+D:\emarketing\School Management System\obj\Debug\School_Management_System.Student.resources
+D:\emarketing\School Management System\obj\Debug\School_Management_System.Subject.resources
+D:\emarketing\School Management System\obj\Debug\School_Management_System.Teacher.resources
+D:\emarketing\School Management System\obj\Debug\School_Management_System.Section.resources
+D:\emarketing\School Management System\obj\Debug\School_Management_System.Enrollment.resources
